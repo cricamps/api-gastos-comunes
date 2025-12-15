@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "concepto": "Agua Potable",
+    "descripcion": "Consumo de agua del mes",
+    "monto": 25000,
+    "mes": "Diciembre",
+    "año": 2024,
+    "fechaVencimiento": "2024-12-15",
+    "estado": "pendiente",
+    "montoPorCasa": 1923
+  },
+  {
+    "id": 2,
+    "concepto": "Luz Común",
+    "descripcion": "Electricidad áreas comunes",
+    "monto": 35000,
+    "mes": "Diciembre",
+    "año": 2024,
+    "fechaVencimiento": "2024-12-15",
+    "estado": "pendiente",
+    "montoPorCasa": 2692
+  },
+  {
+    "id": 3,
+    "concepto": "Mantenimiento Jardines",
+    "descripcion": "Jardinería y mantención áreas verdes",
+    "monto": 45000,
+    "mes": "Diciembre",
+    "año": 2024,
+    "fechaVencimiento": "2024-12-15",
+    "estado": "pendiente",
+    "montoPorCasa": 3462
+  },
+  {
+    "id": 4,
+    "concepto": "Seguridad",
+    "descripcion": "Servicio de vigilancia",
+    "monto": 60000,
+    "mes": "Diciembre",
+    "año": 2024,
+    "fechaVencimiento": "2024-12-15",
+    "estado": "pendiente",
+    "montoPorCasa": 4615
+  },
+  {
+    "id": 5,
+    "concepto": "Agua Potable",
+    "descripcion": "Consumo de agua del mes",
+    "monto": 23000,
+    "mes": "Noviembre",
+    "año": 2024,
+    "fechaVencimiento": "2024-11-15",
+    "estado": "pagado",
+    "montoPorCasa": 1769
+  },
+  {
+    "id": 6,
+    "concepto": "Luz Común",
+    "descripcion": "Electricidad áreas comunes",
+    "monto": 32000,
+    "mes": "Noviembre",
+    "año": 2024,
+    "fechaVencimiento": "2024-11-15",
+    "estado": "pagado",
+    "montoPorCasa": 2462
+  }
+]

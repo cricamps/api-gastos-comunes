@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "pasaje": "8651",
+    "numero": 1,
+    "nombreResidente": "Juan Pérez González",
+    "rut": "12345678-9",
+    "telefono": "+56912345678",
+    "email": "juan.perez@example.com",
+    "fechaIngreso": "2023-01-15",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 2,
+    "pasaje": "8651",
+    "numero": 2,
+    "nombreResidente": "María González Silva",
+    "rut": "23456789-0",
+    "telefono": "+56923456789",
+    "email": "maria.gonzalez@example.com",
+    "fechaIngreso": "2023-02-10",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 3,
+    "pasaje": "8651",
+    "numero": 3,
+    "nombreResidente": "Carlos Muñoz Díaz",
+    "rut": "34567890-1",
+    "telefono": "+56934567890",
+    "email": "carlos.munoz@example.com",
+    "fechaIngreso": "2023-03-20",
+    "estadoCuenta": "moroso"
+  },
+  {
+    "id": 4,
+    "pasaje": "8651",
+    "numero": 4,
+    "nombreResidente": "Ana Torres Rojas",
+    "rut": "45678901-2",
+    "telefono": "+56945678901",
+    "email": "ana.torres@example.com",
+    "fechaIngreso": "2023-04-05",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 5,
+    "pasaje": "8651",
+    "numero": 5,
+    "nombreResidente": "Pedro Soto Vargas",
+    "rut": "56789012-3",
+    "telefono": "+56956789012",
+    "email": "pedro.soto@example.com",
+    "fechaIngreso": "2023-05-12",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 6,
+    "pasaje": "8651",
+    "numero": 6,
+    "nombreResidente": "Laura Fernández Castro",
+    "rut": "67890123-4",
+    "telefono": "+56967890123",
+    "email": "laura.fernandez@example.com",
+    "fechaIngreso": "2023-06-18",
+    "estadoCuenta": "moroso"
+  },
+  {
+    "id": 7,
+    "pasaje": "8707",
+    "numero": 1,
+    "nombreResidente": "Roberto Jiménez Pérez",
+    "rut": "78901234-5",
+    "telefono": "+56978901234",
+    "email": "roberto.jimenez@example.com",
+    "fechaIngreso": "2023-07-08",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 8,
+    "pasaje": "8707",
+    "numero": 2,
+    "nombreResidente": "Sofía Ramírez López",
+    "rut": "89012345-6",
+    "telefono": "+56989012345",
+    "email": "sofia.ramirez@example.com",
+    "fechaIngreso": "2023-08-14",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 9,
+    "pasaje": "8707",
+    "numero": 3,
+    "nombreResidente": "Diego Morales Herrera",
+    "rut": "90123456-7",
+    "telefono": "+56990123456",
+    "email": "diego.morales@example.com",
+    "fechaIngreso": "2023-09-22",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 10,
+    "pasaje": "8707",
+    "numero": 4,
+    "nombreResidente": "Valentina Cruz Sandoval",
+    "rut": "01234567-8",
+    "telefono": "+56901234567",
+    "email": "valentina.cruz@example.com",
+    "fechaIngreso": "2023-10-30",
+    "estadoCuenta": "moroso"
+  },
+  {
+    "id": 11,
+    "pasaje": "8707",
+    "numero": 5,
+    "nombreResidente": "Andrés Núñez Bravo",
+    "rut": "11223344-5",
+    "telefono": "+56911223344",
+    "email": "andres.nunez@example.com",
+    "fechaIngreso": "2023-11-11",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 12,
+    "pasaje": "8707",
+    "numero": 6,
+    "nombreResidente": "Camila Vega Campos",
+    "rut": "22334455-6",
+    "telefono": "+56922334455",
+    "email": "camila.vega@example.com",
+    "fechaIngreso": "2023-12-01",
+    "estadoCuenta": "al día"
+  },
+  {
+    "id": 13,
+    "pasaje": "8707",
+    "numero": 7,
+    "nombreResidente": "Felipe Contreras Fuentes",
+    "rut": "33445566-7",
+    "telefono": "+56933445566",
+    "email": "felipe.contreras@example.com",
+    "fechaIngreso": "2024-01-10",
+    "estadoCuenta": "al día"
+  }
+]
